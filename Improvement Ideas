@@ -1,0 +1,19 @@
+
+Some ways to improve game:
+
+-Different Weapons Do Different Amounts of Damage
+-Randomize the types of spawned monsters
+-Randomize the order of monsters (make sure the dragon comes at the end!)
+
+-Change the formatting of the printing of stats and asking what to do
+-Automatically dodge?
+
+-Fix the level up - it's awkward and seems useless
+	-char and monster hp and xp and dmg adjusted for level
+	-level up with more xp
+	-monsters encountered have lvl within a certain range of your own
+
+-combine with dungeon game to add movement and map
+-combine with descriptions of surroundings for fun storytelling aspect
+-add to the things I'll learn from web page development to run on a webpage instead of in the console.
+
